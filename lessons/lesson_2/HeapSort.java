@@ -1,6 +1,6 @@
 package lessons.lesson_2;
 
-// Реализация пирамидальной сортировки на Java
+// Реализация пирамидальной сортировки
 public class HeapSort
 {
     public void sort(int arr[])
