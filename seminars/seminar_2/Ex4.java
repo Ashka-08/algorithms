@@ -1,7 +1,8 @@
 package seminars.seminar_2;
-
+// бинарный поиск
 public class Ex4 {
     public static void main(String[] args) {
+        // массив размером 100, рандом элементов от 0 до 10
         int[] array = new int[100];
         for (int j = 0; j < array.length; j++) {
             array[j] = (int) (Math.random() * 10);

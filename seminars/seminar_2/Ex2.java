@@ -1,5 +1,5 @@
 package seminars.seminar_2;
-// // алгоритм сортировки вставками
+// алгоритм быстрой сортировки
 
 public class Ex2 {
     public static void main(String[] args) {
