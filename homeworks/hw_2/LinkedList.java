@@ -174,7 +174,6 @@ public class LinkedList {
             Node node = new Node(temp.value);
             node.next = current;
             current = node;
-
         }
 
         while (current != null){
